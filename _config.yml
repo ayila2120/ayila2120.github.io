@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Ayila Khambatta"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Good day to you, nice to see you on the website. This is where I showcase my art, writing, music I love, opinions no one asked for, and things that fascinate me."
+  bio    : "Good day to you, nice to see you on the website. I built it myself so its pretty shit, so good luck navigating it."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
